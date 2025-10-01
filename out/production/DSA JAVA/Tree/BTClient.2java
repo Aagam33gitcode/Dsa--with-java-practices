@@ -1,0 +1,10 @@
+package ;
+
+import com.sun.source.tree.BinaryTree;
+
+public class BTClient2{
+    public static void main(String[] args) {
+        BinaryTree bt=new BinaryTree();
+      
+    }
+}

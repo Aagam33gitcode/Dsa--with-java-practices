@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b510f606-7a3e-4560-a768-26dd6d39ed23" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/Aarray_189.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/Array_27.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/Array_713.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/Array_Input.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/Array_martix_sprial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/Array_matrix_240.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/Boats_to_Save_People_881.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/Diagonal_sum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/FindPostion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/First_Bad_Version_278.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/Kth_root.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/Merge_Sorted_Array_88.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/SearchMatrix_74.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/Search_Insert_Position_35.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/Set_Matrix_Zeroes_73.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/SortColors_75.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/TwoSum_167.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/add_TwoArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/aggesive_Cow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/antiClock_Wise_48.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/arrayImage_swap_48.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/array_11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/array_15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/array_189.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/array_238.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/array_2D_matrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/array_42.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/array_53.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/intersectionArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/leader_Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/max_subArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/mediumTwoArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/page_Of_Books_Read.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/pair_array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/rectangleArea_84.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/reverseArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/reverse_array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/robber_house198.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/running_Sum_1480.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/search_Rotated_Sorted_array_33.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/sort_Sequence_Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/sub_array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/sudoko.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/sum_array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/transpose_48.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/transpose_867.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/two_Sum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/uniqueElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/water_Contain_11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/wave_Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/zero_Subarray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Assignment/duplicate_ele.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Assignment/max_profit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Assignment/max_subarray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Assignment/prefix_sum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Assignment/rain_trapping.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Assignment/target_ele.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/BackTracking/Coin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/CodeVita/Question2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/CodeVita/Question3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/CodeVita/QuestionA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/CodeVita/QuestionD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Digit/Search_Insert_Position_35.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Digit/plusOne_66.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Digit/power.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Digit/printPair_77.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Digit/printSExceptX.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Digit/uniqueElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/LinkedList/cycle_141$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/LinkedList/cycle_141$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/LinkedList/cycle_141.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/LinkedList/intersection_Node_160$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/LinkedList/intersection_Node_160.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/LinkedList/middle_list_876$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/LinkedList/middle_list_876$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/LinkedList/middle_list_876.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/LinkedList/reverse_Linkedlist_206$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/LinkedList/reverse_Linkedlist_206$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/LinkedList/reverse_Linkedlist_206.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Map/HashMap_implements$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Map/HashMap_implements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Map/intersection_array_350.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Map/longest_conc_length_128.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Practics/ProcessStrinwithSpecialOperationsQ1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Practics/StringChange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Practics/base.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Practics/child.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Practics/constructor_overloadding$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Practics/constructor_overloadding.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Practics/daughter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Practics/drived.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Practics/equal_String.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Practics/javapratics.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Practics/nani.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Practics/preInpost.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Practics/son.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Practics/stringLength.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Queue/Queue_Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Queue/Queue_Implmentation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Rat_cheese.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Recursion_java/ArrayQueen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Recursion_java/BacktrackingCOIN_39.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Recursion_java/CountNSay_38.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Recursion_java/HCF_GCF.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Recursion_java/NQueen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Recursion_java/N_Queen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Recursion_java/Palindrome_partitioning_131.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Recursion_java/PermutationSequence60.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Recursion_java/Sudoku_Solver_37.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Recursion_java/WordSearch_79.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Recursion_java/binaryString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Recursion_java/coinToss.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Recursion_java/decreasing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Recursion_java/dice_count.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Recursion_java/factorial_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Recursion_java/finding_path.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Recursion_java/head_tail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Recursion_java/lexographicOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Recursion_java/mazePath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Recursion_java/parantheses.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Recursion_java/pattern/Box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Recursion_java/pattern/Half_Triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Recursion_java/pattern/NOx.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Recursion_java/phoneClick_17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Recursion_java/phone_alphabet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Recursion_java/power.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Recursion_java/print_series.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Recursion_java/stairCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Recursion_java/string_Permutation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Recursion_java/subSequence_String.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Recursion_java/sum_Of_N.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Sorting/bubble_sort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Sorting/checkSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Stack/Next_Gerater_ELE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Stack/Stack_Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Stack/Stack_Implementation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Stack/spanStock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Stack/sun_Building.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/String/Axis_Orbit_647.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/String/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/String/String_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/String/binarySum_67.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/String/count_X.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/String/count_digit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/String/findCeleb_277.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/String/intro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/String/largest_Odd_String_1903.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/String/largest_SubstringB_TwoC_162.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/String/lastOccurance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/String/lexo_count386.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/String/maxSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/String/max_val.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/String/palindromPartition_131.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/String/palindromePar_647.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/String/reverse_String_151.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/String/strictlyGreater.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/String/subSequence_String.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/String/valid_Palindrome_String_125.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Tree/BTClient.2java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Tree/BinaryTree$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Tree/BinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Tree/FindMax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Tree/HeightTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Tree/SearchEle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/pattern/palindromPartition_131.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/pattern/palindromePar_647.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/pattern/pattern_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/pattern/pattern_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/pattern/pattern_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/patterns/BT_right_view_199$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/patterns/BT_right_view_199$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/patterns/BT_right_view_199.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/patterns/Balanced_Binary_Tree_110$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/patterns/Balanced_Binary_Tree_110$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/patterns/Balanced_Binary_Tree_110.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/patterns/Balanced_Binary_Tree_OPTI_110$Solution$BlanacedPair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/patterns/Balanced_Binary_Tree_OPTI_110$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/patterns/Balanced_Binary_Tree_OPTI_110$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/patterns/Balanced_Binary_Tree_OPTI_110.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/patterns/BinaryTree$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/patterns/BinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/patterns/Diameter_edge_543$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/patterns/Diameter_edge_543$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/patterns/Diameter_edge_543.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/patterns/Diameter_edge_OPTI_543$TreeNode$Solution$diaPair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/patterns/Diameter_edge_OPTI_543$TreeNode$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/patterns/Diameter_edge_OPTI_543$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/patterns/Diameter_edge_OPTI_543.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/patterns/common_Ancestor_236$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/patterns/common_Ancestor_236$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/patterns/common_Ancestor_236.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/patterns/mirror_flip_951$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/patterns/mirror_flip_951$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/patterns/mirror_flip_951.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/patterns/path_Sum_112$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/patterns/path_Sum_112$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/patterns/path_Sum_112.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/patterns/sum_rootLeaf_129$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/patterns/sum_rootLeaf_129$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/patterns/sum_rootLeaf_129.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/patterns/symmetic_101$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/patterns/symmetic_101$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/patterns/symmetic_101.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/pending/array_11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA JAVA/time_and_Space/time_complex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/BTClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/FindMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Flip_Equivalent_BT_951.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/HeightTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/InOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/LevelOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/MirrorTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/PostOder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/PreOderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/SearchEle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/SymmetricTree_101.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/patterns.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA JAVA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/.editorconfig" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="33RgKHeysRkDuQhL6jSjw93pMtC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Aarray_189.executor": "Run",
+    "Application.FindMax.executor": "Run",
+    "Application.HeightTree.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.HeightTree">
+    <configuration name="Aarray_189" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Aarray_189" />
+      <module name="DSA JAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.FindMax" />
+      <module name="DSA JAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeightTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.HeightTree" />
+      <module name="DSA JAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HeightTree" />
+        <item itemvalue="Application.FindMax" />
+        <item itemvalue="Application.Aarray_189" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b510f606-7a3e-4560-a768-26dd6d39ed23" name="Changes" comment="" />
+      <created>1759285237376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759285237376</updated>
+    </task>
+    <servers />
+  </component>
+</project>
