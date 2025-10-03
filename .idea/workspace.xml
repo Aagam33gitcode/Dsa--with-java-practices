@@ -5,11 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b510f606-7a3e-4560-a768-26dd6d39ed23" name="Changes" comment="Tree">
-      <change afterPath="$PROJECT_DIR$/src/Tree/Binary_Tree_Right_Side_View_199.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Lowest_Common_Ancestor_BT_236.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/PathSum_112.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Sum_Root_Leaf_Num.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Binary_Search_Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Create_LevelOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Delete_Node_BST_450.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Diameter_of_BT_543.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Insert_BST_701.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Max_BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Search_BST.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA JAVA/Tree/BTClient.2java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA JAVA/Tree/HeightTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Tree/HeightTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/BTClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/BTClient.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,18 +32,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Aagam33gitcode"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Aagam33gitcode&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Aagam33gitcode/Dsa--with-java-practices.git",
-    "accountId": "2aca32cd-1617-4838-b747-7d81c26a3e5d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Aagam33gitcode/Dsa--with-java-practices.git&quot;,
+    &quot;accountId&quot;: &quot;2aca32cd-1617-4838-b747-7d81c26a3e5d&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -46,21 +52,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Aarray_189.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindMax.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HeightTree.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Aarray_189.executor": "Run",
+    "Application.BTClient.executor": "Run",
+    "Application.FindMax.executor": "Run",
+    "Application.HeightTree.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
-  <component name="RunManager" selected="Application.HeightTree">
+}]]></component>
+  <component name="RunManager" selected="Application.BTClient">
     <configuration name="Aarray_189" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.Aarray_189" />
+      <module name="DSA JAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BTClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.BTClient" />
       <module name="DSA JAVA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,6 +96,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BTClient" />
         <item itemvalue="Application.HeightTree" />
         <item itemvalue="Application.FindMax" />
         <item itemvalue="Application.Aarray_189" />
@@ -104,11 +119,35 @@
       <option name="project" value="LOCAL" />
       <updated>1759314376636</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Tree">
+      <option name="closed" value="true" />
+      <created>1759319146127</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759319146129</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tree" />
     <option name="LAST_COMMIT_MESSAGE" value="Tree" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tree/Create_LevelOrder.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="60 20 30  40 -1 -1 50 -1 -1 60 -1 -1 " language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
