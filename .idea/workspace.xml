@@ -4,18 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b510f606-7a3e-4560-a768-26dd6d39ed23" name="Changes" comment="Tree">
-      <change afterPath="$PROJECT_DIR$/src/Tree/Binary_Search_Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Create_LevelOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Delete_Node_BST_450.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Diameter_of_BT_543.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Insert_BST_701.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Max_BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Search_BST.java" afterDir="false" />
+    <list default="true" id="b510f606-7a3e-4560-a768-26dd6d39ed23" name="Changes" comment="BST">
+      <change afterPath="$PROJECT_DIR$/src/Tree/Construct_BT_Pre_Inorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Largest_BST_333.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Validate_BST_98.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA JAVA/Tree/BTClient.2java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA JAVA/Tree/HeightTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Tree/HeightTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/BTClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/BTClient.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,19 +45,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Aarray_189.executor": "Run",
-    "Application.BTClient.executor": "Run",
-    "Application.FindMax.executor": "Run",
-    "Application.HeightTree.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Aarray_189.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BTClient.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindMax.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HeightTree.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.BTClient">
     <configuration name="Aarray_189" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.Aarray_189" />
@@ -127,12 +120,21 @@
       <option name="project" value="LOCAL" />
       <updated>1759319146129</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="BST">
+      <option name="closed" value="true" />
+      <created>1759512470972</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759512470972</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tree" />
+    <MESSAGE value="BST" />
+    <option name="LAST_COMMIT_MESSAGE" value="BST" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
