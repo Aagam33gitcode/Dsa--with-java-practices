@@ -5,10 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b510f606-7a3e-4560-a768-26dd6d39ed23" name="Changes" comment="BST">
-      <change afterPath="$PROJECT_DIR$/src/Tree/Construct_BT_Pre_Inorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Largest_BST_333.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Validate_BST_98.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/House_Robber_198.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Max_elem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heap/Kth_Largest_Ele_Array_215.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heap/Merge_k_Sorted_Lists_usingHeap_23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practics/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion_java/Min_Cost_Climbing_Stairs_746.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA JAVA/Array/zero_Subarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Array/zero_Subarray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA JAVA/Map/intersection_array_350.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Map/intersection_array_350.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA JAVA/Map/longest_conc_length_128.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA JAVA/Map/longest_conc_length_128.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA JAVA/String/findCeleb_277.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA JAVA/String/findCeleb_277.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA JAVA/String/largest_Odd_String_1903.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA JAVA/String/largest_Odd_String_1903.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA JAVA/String/largest_SubstringB_TwoC_162.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA JAVA/String/largest_SubstringB_TwoC_162.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA JAVA/String/lexo_count386.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA JAVA/String/lexo_count386.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA JAVA/String/maxSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA JAVA/String/maxSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA JAVA/String/palindromPartition_131.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA JAVA/String/palindromPartition_131.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA JAVA/String/reverse_String_151.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA JAVA/String/reverse_String_151.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA JAVA/String/subSequence_String.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA JAVA/String/subSequence_String.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/zero_Subarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/zero_Subarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Map/intersection_array_350.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Map/intersection_array_350.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Map/longest_conc_length_128.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Map/longest_conc_length_128.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String/findCeleb_277.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/findCeleb_277.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String/largest_Odd_String_1903.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/largest_Odd_String_1903.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String/largest_SubstringB_TwoC_162.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/largest_SubstringB_TwoC_162.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String/lexo_count386.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/lexo_count386.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String/maxSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/maxSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String/palindromPartition_131.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/palindromPartition_131.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String/reverse_String_151.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/reverse_String_151.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String/subSequence_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/subSequence_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String/valid_Palindrome_String_125.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/valid_Palindrome_String_125.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,43 +71,77 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Aarray_189.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BTClient.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindMax.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HeightTree.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Aarray_189.executor": "Run",
+    "Application.BTClient.executor": "Run",
+    "Application.FindMax.executor": "Run",
+    "Application.Heap_Implementation.executor": "Run",
+    "Application.HeightTree.executor": "Run",
+    "Application.House_Robber_198.executor": "Run",
+    "Application.Kth_Largest_Ele_Array_215.executor": "Run",
+    "Application.Max_elem.executor": "Run",
+    "Application.Min_Cost_Climbing_Stairs_746.executor": "Run",
+    "Application.Practics.Solution.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.String_1.executor": "Run",
+    "Application.TwoSum_167.executor": "Run",
+    "Application.findCeleb_277.executor": "Run",
+    "Application.intersection_array_350.executor": "Run",
+    "Application.largest_Odd_String_1903.executor": "Run",
+    "Application.largest_SubstringB_TwoC_162.executor": "Run",
+    "Application.lexo_count386.executor": "Run",
+    "Application.palindromPartition_131.executor": "Run",
+    "Application.palindromePar_647.executor": "Run",
+    "Application.reverse_String_151.executor": "Run",
+    "Application.strictlyGreater.executor": "Run",
+    "Application.subSequence_String.executor": "Run",
+    "Application.sudoko.executor": "Run",
+    "Application.valid_Palindrome_String_125.executor": "Run",
+    "Application.zero_Subarray.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
-  <component name="RunManager" selected="Application.BTClient">
-    <configuration name="Aarray_189" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Aarray_189" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveInnerDialog.RECENTS_KEY">
+      <recent name="Practics" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Min_Cost_Climbing_Stairs_746">
+    <configuration name="House_Robber_198" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.House_Robber_198" />
       <module name="DSA JAVA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BTClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree.BTClient" />
+    <configuration name="Max_elem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Max_elem" />
       <module name="DSA JAVA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree.FindMax" />
+    <configuration name="Min_Cost_Climbing_Stairs_746" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion_java.Min_Cost_Climbing_Stairs_746" />
       <module name="DSA JAVA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HeightTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree.HeightTree" />
+    <configuration name="TwoSum_167" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.TwoSum_167" />
+      <module name="DSA JAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sudoko" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.sudoko" />
       <module name="DSA JAVA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,10 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BTClient" />
-        <item itemvalue="Application.HeightTree" />
-        <item itemvalue="Application.FindMax" />
-        <item itemvalue="Application.Aarray_189" />
+        <item itemvalue="Application.Min_Cost_Climbing_Stairs_746" />
+        <item itemvalue="Application.Max_elem" />
+        <item itemvalue="Application.House_Robber_198" />
+        <item itemvalue="Application.sudoko" />
+        <item itemvalue="Application.TwoSum_167" />
       </list>
     </recent_temporary>
   </component>
@@ -143,6 +204,85 @@
           <url>file://$PROJECT_DIR$/src/Tree/Create_LevelOrder.java</url>
           <line>23</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Heap/Heap_Implementation.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Heap/Heap_Implementation.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Heap/Heap_Implementation.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Heap/Heap_Implementation.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/String/palindromePar_647.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Heap/Heap_Implementation.java</url>
+          <line>6</line>
+          <properties class="Heap.Heap_Implementation" method="add">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Heap/Heap_Implementation.java</url>
+          <line>12</line>
+          <properties class="Heap.Heap_Implementation" method="upheapify">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Heap/Heap_Implementation.java</url>
+          <line>21</line>
+          <properties class="Heap.Heap_Implementation" method="swap">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Practics/Solution.java</url>
+          <line>5</line>
+          <properties class="Practics.Solution" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/String/reverse_String_151.java</url>
+          <line>8</line>
+          <properties class="String.reverse_String_151" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/String/findCeleb_277.java</url>
+          <line>5</line>
+          <properties class="String.findCeleb_277" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

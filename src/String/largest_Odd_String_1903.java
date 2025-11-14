@@ -2,7 +2,7 @@ package String;
 
 public class largest_Odd_String_1903 {
     public static void main(String[] args) {
-        String s="234542";
+        String s="3212123456";
         System.out.println(largestString(s));
 
     }

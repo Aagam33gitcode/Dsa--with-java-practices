@@ -10,8 +10,6 @@ public class maxSum {
         if(idx== arr.length){
             return -1;
         }
-
-
         return Math.max(arr[idx],maxSumRe(arr,idx+1));
 
 
