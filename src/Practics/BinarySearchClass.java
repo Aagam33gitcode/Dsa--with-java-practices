@@ -81,14 +81,12 @@ public class BinarySearchClass {
 int ans=-1;
         while (low<=high){
             int mid=low+(high-low)/2;
-            if (arr[mid]==target){
-               return arr[mid];
-            } else if (arr[mid]>target) {
-                high=mid-1;
-            }
-            else{
+            if (arr[mid]<target) {
                 low=mid+1;
                 ans=arr[mid];
+            }
+            else{
+                high=mid-1;
             }
 
         }
@@ -126,9 +124,8 @@ public static int ceilBinarysearch(int[] arr,int target){
         int ans=-1;
         while (low<=high){
             int mid=low+(high-low)/2;
-            if (arr[mid]==target){
-                return arr[mid];
-            } else if (arr[mid]>target) {
+
+             if (arr[mid]>target) {
                 high=mid-1;
                 ans=arr[mid];
             }
@@ -139,5 +136,77 @@ public static int ceilBinarysearch(int[] arr,int target){
         }
         return ans;
     }
-}
+    public static int findAbsBs(int[] arr, int target) {
+        int ans1=Integer.MAX_VALUE;
+        int ans2=Integer.MAX_VALUE;
+        int ceil=ceilBinarysearch(arr, target);
+        int floor=floorBinarySearch(arr, target);
+        if (ceil!=-1){
+           ans1= Math.abs(ceil-target);
+        }
+
+        if (floor!=-1){
+            ans2= Math.abs(floor-target);
+        }
+return Math.min(ans1,ans2);}
+
+    public static int findMinAbsEnhace(int[] arr, int target){
+        int start=0;
+        int end=arr.length-1;
+        int ans=-1;
+        while(start<=end) {
+            int mid = (start + end) / 2;
+            if (arr[mid] == target) {
+                return 0;
+            }else
+           if (arr[mid] < target) {
+                start = mid + 1;
+            } else {
+                end = mid - 1;
+            }
+        }
+        //ans==-1 means element is not present
+            if (ans==-1){
+                if (start<=-1){
+                    ans=Math.abs(target-arr[start]);
+
+                }else if (end<= arr.length) {
+                    ans=Math.abs(target-arr[end]);
+                }
+                else {
+int ans1=Math.abs(target-arr[start]);
+int ans2=Math.abs(target-arr[end]);
+return Math.min(ans1,ans2);
+                }
+            }
+            else {
+                ans=0;
+
+            }
+    return ans;
+
+    }
+    public static int infiniteArrayBS(int[] arr,int target){
+        int i=0;
+        int j=1;
+
+        while (j<=arr.length&&arr[j]<target) {
+            i = j;
+            j=j*2;
+
+        }
+        int ans=-1;
+        while (i<=j){
+            int mid=i+(j-i)/2;
+            if (arr[mid]==target){
+return mid;
+            } else if (arr[mid]>target) {
+                j=mid-1;
+            }else {
+                i=mid+1;
+            }
+        }
+        return ans;
+    }
+    }
 
