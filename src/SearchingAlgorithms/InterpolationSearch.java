@@ -3,9 +3,9 @@ package SearchingAlgorithms;
 public class InterpolationSearch {
     public static void main(String[] args) {
         int[] arr={2,4,6,8};
-        System.out.println(interpolationSearh(arr,12));
+        System.out.println(interpolationSearch(arr,12));
     }
-    public static int interpolationSearh(int[] arr, int target){
+    public static int interpolationSearch(int[] arr, int target){
         int i=0;
         int j=arr.length-1;
         while (i<=j && target>=arr[i] && target<=arr[j]){
