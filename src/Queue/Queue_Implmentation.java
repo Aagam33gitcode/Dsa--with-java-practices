@@ -4,9 +4,9 @@ public class Queue_Implmentation {
     private int[] arr;
     private int size=0;
     private  int front=0;
+
     public Queue_Implmentation(){
         arr=new int[5];
-
     }
     public Queue_Implmentation(int n){
         arr=new int[n];
@@ -20,7 +20,11 @@ public class Queue_Implmentation {
     }
     public void enqueue(int item){
         int idx=(front+size)%arr.length;
-        arr[idx]=item;size++;
+//        System.out.println("length: "+arr.length);
+//        System.out.println();
+//        System.out.println("size: "+size+" front: "+front+" idx: "+idx);
+        arr[idx]=item;
+        size++;
     }
     public int dequeue(){
         int rv=arr[front];
@@ -33,6 +37,7 @@ public class Queue_Implmentation {
         return rv;
     }
     public void display(){
+        size=arr.length;
         for (int i=0;i<size;i++){
             int idx=(front+i)%arr.length;
             System.out.print(arr[idx]+" ");
