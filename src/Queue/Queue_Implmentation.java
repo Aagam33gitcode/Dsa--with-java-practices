@@ -4,9 +4,20 @@ public class Queue_Implmentation {
     private int[] arr;
     private int size=0;
     private  int front=0;
-
+    int[] ans;
     public Queue_Implmentation(){
         arr=new int[5];
+//        arr = new int[5];
+//
+//        // Resize immediately
+//        int[] newArr = new int[arr.length * 2];
+//
+//        // Copy elements (currently none, but logic is correct)
+//        for (int i = 0; i < size; i++) {
+//            newArr[i] = arr[i];
+//        }
+//
+//        arr = newArr;
     }
     public Queue_Implmentation(int n){
         arr=new int[n];
