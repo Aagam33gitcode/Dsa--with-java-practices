@@ -1,4 +1,4 @@
-package Recursion.pattern;
+package Recursion.Practics;
 
 public class NOx {
     public static void main(String[] args) {

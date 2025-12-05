@@ -79,7 +79,32 @@ return   reverseNo(n/10,res);
         int b=towerOfHanoi(noD-1,helper,source,destination);
     return a+b+1;
     }
-
+public static void  matrixTraversal(int r,int c,int m,int n, String ans){
+        if(r==m&&c==n){
+            System.out.println(ans);
+            return ;
+        }
+        int a=0;
+        int b = 0;
+    if (r<m) {
+        matrixTraversal(r +1, c,m ,n,ans + "H");
+    }
+if(c<n) {
+    matrixTraversal(r, c +1, m,n,ans + "V");
+}
+}
+public static void  matrixTraversal2(int r,int c, String ans){
+        if(r==1&&c==1){
+            System.out.println(ans);
+            return ;
+        }
+    if (r>0) {
+        matrixTraversal2(r -1, c,ans + "H");
+    }
+if(c>0) {
+    matrixTraversal2(r, c -1, ans + "V");
+}
+}
     public static void main(String[] args) {
 //        printNo(5);
 //tailR(5);
@@ -96,7 +121,9 @@ return   reverseNo(n/10,res);
         System.out.println(reverseString2("543210",0,""));
         System.out.println(towerOfHanoi(3,"Source","Helper","Desination"));
 
-
+        matrixTraversal(1,1,3,3,"");
+        System.out.println();
+        matrixTraversal2(3,3,"");
     }
 
 }
