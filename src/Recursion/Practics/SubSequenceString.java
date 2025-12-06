@@ -4,7 +4,8 @@ public class SubSequenceString {
     public static void main(String[] args) {
         System.out.print(subSequence("abc",""));
         System.out.println();
-      subString("abc","");
+//      subString("abc","");
+      subStringa("abac","");
 
     }
     public static int subSequence(String ques,String ans){
@@ -29,5 +30,24 @@ return a+b;
             char ch = ques.charAt(i);
          subString(ques.substring(0,i)+ques.substring(i+1), ans + ch);
         }
+    }
+    public static void subStringa(String ques,String ans){
+       // abc, acb,bac,bca,cab,cba
+        if (ques.length()==0){
+            System.out.println(ans+" ");
+            return ;
+        }
+        for (int i = 0; i < ques.length(); i++) {
+            char ch = ques.charAt(i);
+            boolean falg=false;
+            for (int j = i+1; j <ques.length(); j++) {
+                if (ques.charAt(j)==ch){
+                    falg=true;
+                    break;
+                }
+            }
+            if (falg==false){
+         subStringa(ques.substring(0,i)+ques.substring(i+1), ans + ch);
+        }}
     }
 }

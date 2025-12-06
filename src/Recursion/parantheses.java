@@ -38,9 +38,9 @@ public class parantheses {
         if (close < open) {
             printparantheses(n, open, close + 1, ans + ")");
         }
-        if (open < n) {
-            printparantheses(n, open + 1, close, ans + "(");
-        }
+if(open<n) {
+    printparantheses(n, open + 1, close, ans + "(");
+}
     }
 
 
