@@ -35,9 +35,6 @@ if (cc==maze.length-1&&cr==maze.length-1&&maze[cc][cr]!='X'){
         maze[cr][cc]='X';
         ans[cr][cc]=1;
         for (int i = 0; i <r.length ; i++) {
-
-
-
         findPath(maze,cr+r[i],cc+c[i],ans);
 //        findPath(maze,cr,cc+1,ans);
 //        findPath(maze,cr,cc-1,ans);

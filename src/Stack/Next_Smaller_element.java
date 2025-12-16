@@ -26,7 +26,7 @@ public class Next_Smaller_element {
       Display(ans);
     }
 
-    private static void Display(int[] ans) {
+    public static void Display(int[] ans) {
     for(int arr:ans){
         System.out.print(arr+" ");
     }
