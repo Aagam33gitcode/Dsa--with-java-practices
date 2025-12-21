@@ -1,7 +1,4 @@
 package LinkedList;
-
-import LinkedList.Practics.Reverse_List;
-
 public class Palindrome_LinkedList_234 {
     public static class ListNode {
         int val;
