@@ -1,8 +1,6 @@
 package LinkedList;
 
-import jdk.dynalink.beans.StaticClass;
-
-public class intersection_Node_160 {
+public class GetIntersection_Node_160 {
     public class ListNode {
         int val;
         ListNode next;
@@ -19,7 +17,6 @@ ListNode B=headB;
 while (A!=B){
     if (A==null){
         A=headB;
-
     }
     else {
         A=A.next;
@@ -31,7 +28,6 @@ while (A!=B){
     else {
         B=B.next;
     }
-
 
 }
     return A;    }
