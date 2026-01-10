@@ -1,6 +1,6 @@
 package Tree.Pratics;
 
-public class DiameterTree {
+public class BT_DiameterTree {
 //      Definition for a binary tree node.
       public class TreeNode {
           int val;
@@ -50,4 +50,5 @@ public DiaPair diameter1(TreeNode root){
           sdp.ht=Math.max(ldp.ht,rdp.ht)+1;
           return sdp;
 }
+
 }
